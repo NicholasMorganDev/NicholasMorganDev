@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, my name is Nicholas Morgan</h1>
 <h3 align="center">A software engineer that loves problem solving and making new ones.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicholasmorgandev" alt="nicholasmorgandev" /></a> </p>
-
 - 🌱 I’m currently learning **React Native for mobile development.**
 
 - 👯 I’m looking to collaborate on **a project that showcases my cohorts personalized webpages.**
 
 - 💬 Ask me about **my interests or what I'm up to.**
 
-- 📫 How to reach me **Nicholas.Morgan2002@gmail.com**
+- 📫 How to reach me **Nicholas.Morgan2002@gmail.com** or Text me at : 954-805-1363
 
 - ⚡ Fun fact: **I can be hilarious.**
 
