@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **my interests or what I'm up to.**
 
-- 📫 How to reach me **Nicholas.Morgan2002@gmail.com** or Text me at : 954-805-1363
+- 📫 You can email me at: **Nicholas.Morgan2002@gmail.com** or Text me at : 954-805-1363
 
 - ⚡ Fun fact: **I can be hilarious.**
 
